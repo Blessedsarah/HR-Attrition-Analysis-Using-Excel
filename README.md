@@ -16,6 +16,9 @@ Employee attrition is a critical concern for many organizations, as it impacts p
 - Are there specific employee segments that are more likely to leave?
 - How do work-life balance, job satisfaction, and compensation influence the decision to leave?
 
+## Data Structure
+The Dataset consists of a total of 1,470 entries with 35 columns about employee records, including attributes such as age, attrition status, business travel, daily rate, department, education, job role, and work-life balance, demographic details, job satisfaction, and performance metrics.
+
 ## Methodology
 The analysis was conducted using **Excel**. The dataset contains information on various employee characteristics, including age, education, business travel, salary, years at the company, job role, and work-life balance. The following steps were taken to analyze the data:
 - Data Cleaning and Preparation with Power Query
