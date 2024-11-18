@@ -24,7 +24,7 @@ The analysis was conducted using **Excel**. The dataset contains information on 
 - Data Cleaning and Preparation with Power Query
 - Exploratory Data Analysis using Power Pivot and Dax measures
 - Correlation analysis was used to identify relationships between attrition and other factors like distance from home, years at the company, and job satisfaction.
-- Data Presentation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders and highlight key factors contributing to employee attrition.
+- Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders and highlight key factors contributing to employee attrition.
 
 ## Key Insights and Findings:
 **Here are a few insights that were discovered:**
