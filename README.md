@@ -26,6 +26,14 @@ The analysis was conducted using **Excel**. The dataset contains information on 
 - Correlation analysis was used to identify relationships between attrition and other factors like distance from home, years at the company, and job satisfaction.
 - Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders and highlight key factors contributing to employee attrition.
 
+## Pivot Tables
+
+![image](https://github.com/user-attachments/assets/73298226-c5a4-419c-87c5-8aade7f9b9e7)
+
+![image](https://github.com/user-attachments/assets/77d3bdd8-248e-4bc6-acb6-0abe5212eae9)
+
+
+
 ## Key Insights and Findings:
 **Here are a few insights that were discovered:**
 - Employees with lower salaries are more likely to leave, especially when combined with low job satisfaction and limited growth opportunities.
